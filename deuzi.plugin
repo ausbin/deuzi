@@ -1,4 +1,5 @@
 [Plugin]
+Loader=python3
 Module=deuzi
 IAge=2
 Name=De-Uzi Professional Edition
