@@ -1,0 +1,8 @@
+[Plugin]
+Module=deuzi
+IAge=2
+Name=De-Uzi Professional Edition
+Description=Relieve your Bad and Boujee pain
+Authors=Austin Adams <me@austinjadams.com>
+Copyright=Copyright © 2017 Austin Adams
+Website=https://github.com/ausbin/deuzi
